@@ -2,7 +2,7 @@
   "document": {
     "type": "page",
     "children": [{
-        "type": "heading",
+        "type": "title",
         "data": {
           "level": 2,
           "delta": [{
